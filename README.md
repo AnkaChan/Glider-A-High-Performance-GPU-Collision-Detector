@@ -1,1 +1,1 @@
-# Gollider-A-High-Performance-GPU-Collision-Detector
+# Glider-A-High-Performance-GPU-Collision-Detector
