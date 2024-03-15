@@ -1,7 +1,6 @@
 #ifndef LBVH_QUERY_CUH
 #define LBVH_QUERY_CUH
 #include "predicator.cuh"
-#include <CuMatrix/MatrixOps/CuMatrix.h>
 
 namespace lbvh
 {

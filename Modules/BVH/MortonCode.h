@@ -1,5 +1,4 @@
 #pragma once
-#include "Types/Types.h"
 #include <vector_types.h>
 #include <vector>
 #include <numeric>      // std::iota

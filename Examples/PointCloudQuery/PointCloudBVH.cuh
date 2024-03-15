@@ -1,9 +1,9 @@
 #pragma once
-#include "aabb.cuh"
-#include "GPU_LBVH.cuh"
-#include "query.cuh"
+#include <BVH/aabb.cuh>
+#include <BVH/GPU_LBVH.cuh>
+#include <BVH/query.cuh>
 
-#include <CuMatrix/MatrixOps/VectorTypes.h>
+#include "../CuMatrix/CuMatrix/MatrixOps/VectorTypes.h"
 
 #define SQR(x) ((x)*(x))
 #define POINT_OVERLAP_EPSILON 1e-6
