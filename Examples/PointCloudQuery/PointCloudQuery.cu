@@ -18,7 +18,7 @@ using CuMatrix::Vec3af;
 void testVectorTypes();
 void testBVH();
 
-void test() {
+void pointCloudQuery() {
 	//testVectorTypes();
 	testBVH();
 }
